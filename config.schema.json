@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "ShellCommand",
   "pluginType": "platform",
   "singular": true,
   "schema": {
